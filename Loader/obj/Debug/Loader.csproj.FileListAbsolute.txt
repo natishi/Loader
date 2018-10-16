@@ -1,0 +1,8 @@
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\bin\Debug\Loader.exe.config
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\bin\Debug\Loader.exe
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\bin\Debug\Loader.pdb
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\bin\Debug\UpdateNewVersion.dll
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\bin\Debug\UpdateNewVersion.pdb
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\obj\Debug\Loader.exe
+c:\users\netanelshimoni\documents\visual studio 2015\Projects\Loader\Loader\obj\Debug\Loader.pdb
